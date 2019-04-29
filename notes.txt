@@ -1,0 +1,17 @@
+
+## SRC FOLDER
+The login/, signup/ and widget/ folders are all going to be the containers for our different routes. Explanations of the files are:
+
+a) index.js - the actual container component itself and all of the react goodness 
+b) sagas.js - where we'll store our sagas to watch for API related calls 
+c) reducer.js - where we'll manage the piece of state related to this container 
+d) actions.js - where we'll keep all of the actions that our container dispatches 
+e) constants.js - where we'll store our constants for reducers/actions
+
+The notifications/ folder will house two components that will help us display message and error notifications without having to repeat ourselves.
+
+The lib/ has two files - one for helping with api call errors and the other that we'll later use to setup auth checking when a user visits a route that should be protected.
+
+The client/ - while we might create a page at some later data that deals with updating the Client's info (username, email, etc), for now this will just be a place for our actions/reducer/constants related to dealing with the Client.
+
+Finally, index-reducer and index-sagas are going to be the main HQ for our reducers and sagas respectively. Whenever we setup a reducer or saga, we'll make sure to include them in these files.
