@@ -1,5 +1,5 @@
-[![Contributors](https://img.shields.io/github/contributors/rwieberdink/graphql-react.svg?color=violet&style=plastic)](https://github.com/rwieberdink/graphql-react)
-[![MIT license](https://img.shields.io/github/license/rwieberdink/graphql-react.svg?color=blue&style=plastic)](https://lbesson.mit-license.org/)
+[![Contributors](https://img.shields.io/github/contributors/rebeccaui/graphql-react.svg?color=violet&style=plastic)](https://github.com/rebeccaui/graphql-react)
+[![MIT license](https://img.shields.io/github/license/rebeccaui/graphql-react.svg?color=blue&style=plastic)](https://lbesson.mit-license.org/)
 
 # LexiComm
 
